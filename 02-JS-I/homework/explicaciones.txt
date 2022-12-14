@@ -1,0 +1,18 @@
+Variables:  Es una forma de guardar información en algun lugar, se le pone un nombre
+            para luego poder buscar esa información de forma mas fácil.
+
+Strings:    Es un tipo de dato, asi como podemos guardar informacion en forma de
+            números, tambien podemos hacerlo con letras o caracteres (strings).
+
+Funciones:  Nos sirven para poder agrupar órdenes que le vamos a pedir a la PC y poder
+            usarlas varias veces sin tener que volver a escribirlas. pueden o no tener
+            un argumento, que sirven para indicarle datos especificos, como Variables
+            por ejemplo, y podemos pedirle que nos devuelva algun resultado usando 
+            el comando "return".
+
+Declaraciones:  sirven para poder hacerle preguntas a la PC para que pueda decidir
+                que resultado nos va a dar dependiendo de si pasa una cosa u otra.
+
+Booleanos:  son valores que podemos usar, por lo general "verdadero o falso", 
+            para indicarle al interprete que tiene dos opciones, asi puede por 
+            ejemplo, en las declaraciones, decidir que parte del codigo va a usar.  
