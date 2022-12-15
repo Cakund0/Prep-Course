@@ -1,0 +1,14 @@
+for:    Los bucles "for" son la forma que tienen la mayoria de los programas de ejecutarse. esto hace que
+        esten repitiendo el codigo hasta que nos da lo que estamos buscando o se detiene despues de cierto tiempo.
+
+Operadores Logicos:
+
+&&:     Significa "y" o "and". Compara dos expresiones y solo devuelve "true" cuando ambas son verdaderas. 
+        Si alguna de las dos es falsa devuelve "false".
+
+||:     Significa "o" o "or". Compara dos expresiones y devuelve "true" si una de las dos es verdadera, 
+        aunque la otra sea falsa. Solo devuelve "false" cuando ambas son falsas.
+
+!:      significa "no" o "not". Devuelve el valor opuesto a la expresión que le digamos. Si era una expresión "true",
+        por ejemplo "1 === 1", la expresión es "true" por lo que nos devolveria "false". De lo contrario, si era
+        una expresión "false" como por ejemplo "1 > 10", la expresión es "false", por lo que nos devolveria "true".
