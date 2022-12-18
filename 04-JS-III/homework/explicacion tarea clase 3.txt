@@ -1,0 +1,4 @@
+Array:  se puede decir que son como listas o contenedores que funcionan como variables pero con 
+        la diferencia de que puede ser más de un solo dato y estos pueden ser de cualquier tipo;
+        y nos permite luego poder acceder a ellos mediante un índice para usarlos de la forma en 
+        la que necesitemos. 
