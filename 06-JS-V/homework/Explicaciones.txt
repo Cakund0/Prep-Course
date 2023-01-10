@@ -1,0 +1,8 @@
+Prototype:      Los prototypes son una forma de crear métodos para los objetos una sola vez y luego
+                darle acceso a varios objetos a la vez evitando asi repetir codigo y ahorrando capacidad
+                de memoria en la PC.
+
+constructors:   Los constructors o constructores, son funciones que actuan como plantillas cuando
+                tenemos que crear varios objetos diferentes que pertenecen a una misma clase, evitando
+                asi tener que crear cada objeto de forma literal y permitiendonos usar estas plantillas
+                para que cada objeto de esta clase comparta propiedades y métodos.
